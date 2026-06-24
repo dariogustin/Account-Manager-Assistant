@@ -1,0 +1,6 @@
+{
+  "name": "Smart Account Assistant",
+  "description": "Asistente comercial y consultor de prospección estratégica para S&S IP SAS en Colombia, diseñado para optimizar correos Warm Outreach y análisis de dolores sectoriales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
